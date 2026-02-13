@@ -367,7 +367,7 @@
 
     <!-- Botón de reinicio -->
     <div class="footer">
-      <button class="restart-btn" id="restartBtn"><i class="fas fa-undo-alt"></i> RESET HELICO CHALLENGE</button>
+      <button class="restart-btn" id="restartBtn"><i class="fas fa-undo-alt"></i> RESET_HELICOCHALLENGE</button>
     </div>
   </div>
 
